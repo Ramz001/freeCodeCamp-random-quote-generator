@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .link-button-container{
+        @apply w-10 h-10 bg-blue-600 hover:bg-blue-700 cursor-pointer rounded-md 
+        flex justify-center items-center
+    }
+}
