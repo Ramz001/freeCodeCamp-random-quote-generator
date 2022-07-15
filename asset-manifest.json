@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/freecodecamp-random-quote-generator/static/css/main.bdc9fd66.css",
+    "main.js": "/freecodecamp-random-quote-generator/static/js/main.a23340ea.js",
+    "static/js/787.7190d5bb.chunk.js": "/freecodecamp-random-quote-generator/static/js/787.7190d5bb.chunk.js",
+    "index.html": "/freecodecamp-random-quote-generator/index.html",
+    "static/media/linkedin-brands.svg": "/freecodecamp-random-quote-generator/static/media/linkedin-brands.9975600913e8e25b376ae89a02743dc5.svg",
+    "static/media/clone-solid.svg": "/freecodecamp-random-quote-generator/static/media/clone-solid.e9863446830bcf97a2add06463fe4639.svg",
+    "static/media/plus-solid.svg": "/freecodecamp-random-quote-generator/static/media/plus-solid.85433aca072f719884003ce8fe44eeb7.svg",
+    "main.bdc9fd66.css.map": "/freecodecamp-random-quote-generator/static/css/main.bdc9fd66.css.map",
+    "main.a23340ea.js.map": "/freecodecamp-random-quote-generator/static/js/main.a23340ea.js.map",
+    "787.7190d5bb.chunk.js.map": "/freecodecamp-random-quote-generator/static/js/787.7190d5bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc9fd66.css",
+    "static/js/main.a23340ea.js"
+  ]
+}
